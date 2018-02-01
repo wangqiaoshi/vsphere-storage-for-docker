@@ -79,7 +79,7 @@ A typical workflow for a developer should be.
   for the docker plugin, the ESX code needs to be shipped separately).
 
 ### Build, test, rinse, repeat
-Use `make` or `make dockerbuild` to build.
+Use `make` or `make dockerbuild` to build.fff
 
 Build environment is described in README.md. The result of the build is a set
 of binaries in ./build directory.
