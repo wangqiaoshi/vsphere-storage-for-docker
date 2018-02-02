@@ -20,7 +20,7 @@
    * If you want to trigger CI test runs for pushing into a branch prefix the branch with `runci/` Example: `runci/mylatestchange.kerneltime`
    * If you want to skip running CI test e.g. **Documentation change/Inline comment change** or when the change is in `WIP` or `PREVIEW` phase, add `[CI SKIP]` or `[SKIP CI]` to the PR title.
 * Each PR should be accompanied with unit/integration tests whenever it is possible.
-* Add detailed description to pull request including reference to issues.
+* Add detailed description to pullgfg request including reference to issues.
 * Add details of tests in "Testing Done".
 * Locally run integration tests.
 * Squash your commits before you publish pull request.
